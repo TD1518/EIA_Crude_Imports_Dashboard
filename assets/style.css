@@ -1,0 +1,27 @@
+body {
+    font-family: "Segoe UI", Arial, sans-serif;   /* clean modern font */
+    background-color: #f4f6f9;                    /* light gray page background */
+    color: #1f2937;                               /* dark gray text, softer than pure black */
+    margin: 0;                                    /* remove the browser's default edge spacing */
+    padding: 24px;                                /* even breathing room around the page */
+}
+
+.card {
+    background-color: white;                      /* white box on the gray page */
+    border-radius: 10px;                          /* rounded corners */
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);    /* soft shadow so the box "lifts" off the page */
+    padding: 16px;                                /* space between the box edge and its contents */
+    box-sizing: border-box;                       /* keep padding inside the box's width */
+}
+
+.kpi-label {
+    font-size: 13px;          /* small */
+    color: #6b7280;           /* gray, same as your header info */
+    margin-bottom: 4px;       /* small gap above the number */
+}
+
+.kpi-value {
+    font-size: 28px;          /* big and prominent */
+    font-weight: 600;         /* semi-bold */
+    color: #1f2937;           /* same dark gray as your page text */
+}

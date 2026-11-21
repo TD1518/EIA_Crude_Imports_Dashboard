@@ -1,0 +1,289 @@
+﻿destinationName,Market,Category
+PADD1 (East Coast),PADD 1,Other
+New Jersey,New Jersey,Other
+"Newark, NJ",Newark,Other
+PHILLIPS 66 CO / BAYWAY / NJ,Phillips 66 Bayway,Refinery
+United States,United States,Other
+PADD5 (West Coast),PADD 5,Other
+California,California,Other
+Washington,Washington,Other
+"Long Beach, CA",Long Beach,Other
+"El Segundo, CA",El Segundo,Other
+"Richmond, CA",Richmond,Other
+"Bellingham, WA",Bellingham,Other
+CHEVRON USA INC / EL SEGUNDO / CA,Chevron El Segundo,Refinery
+CHEVRON USA / RICHMOND / CA,Chevron Richmond,Refinery
+TESORO REFINING & MARKETING / CARSON/WILMINGTON / CA,Marathon Carson,Refinery
+BP PRODUCTS NORTH AMERICA / CHERRY POINT REFINERY / WA,BP Cherry Point,Refinery
+PADD3 (Gulf Coast),PADD 3,Other
+Louisiana,Louisiana,Other
+Mississippi,Mississippi,Other
+"Pascagoula, MS",Pascagoula,Other
+"Lake Charles, LA",Lake Charles,Other
+"Los Angeles, CA",Los Angeles,Other
+"Sanfrancisco, CA",San Francisco,Other
+CHEVRON USA / PASCAGOULA / MS,Chevron Pasacagoula,Refinery
+VALERO REFINING CO CALIFORNIA / WILMINGTON ASPHALT PLANT / CA,Valero Wilmington,Refinery
+MARTINEZ REFINING CO LLC / MARTINEZ / CA,PBF Martinez,Refinery
+PETRO-DIAMOND TERMINAL CO / LONG BEACH / CA,PADD 5 - Other,Other
+PHILLIPS 66 / LAKE CHARLES / LA,Phillips 66 Lake Charles,Refinery
+PADD2 (Midwest),PADD 2,Other
+PADD4 (Rocky Mountain),PADD 4,Other
+Alaska,Alaska,Other
+Alabama,Alabama,Other
+Colorado,Colorado,Other
+Delaware,Delaware,Other
+Idaho,Idaho,Other
+Illinois,Illinois,Other
+Michigan,Michigan,Other
+Minnesota,Minnesota,Other
+Missouri,Missouri,Other
+Montana,Montana,Other
+North Dakota,North Dakota,Other
+New York,New York,Other
+Ohio,Ohio,Other
+Oklahoma,Oklahoma,Other
+Pennsylvania,Pennsylvania,Other
+Texas,Texas,Other
+Wyoming,Wyoming,Other
+"Buff-Niag Fl, NY",Buffalo-Niagara Falls,Other
+"Philadelphia, PA",Philadelphia,Other
+"Wilmington, DE",Wilmington,Other
+"Mobile, AL",Mobile,Other
+"Baton Rouge, LA",Baton Rouge,Other
+"Port Arthur, TX",Port Arthur,Other
+"Sumas, WA",Sumas,Other
+"Anacortes, WA",Anacortes,Other
+"Anchorage, AK",Anchorage,Other
+"Raymond, MT",Raymond,Other
+"Eastport, ID",Eastport,Other
+"Great Falls, MT",Great Falls,Other
+"Denver, CO",Denver,Other
+"Sweetgrass, MT",Sweetgrass,Other
+"Piegan, MT",Piegan,Other
+"Del Bonita, MT",Del Bonita,Other
+"Natrona Aprt, WY",Natrona Aprt,Other
+"Pembina, ND",Pembina,Other
+"Minneapolis, MN",Minneapolis,Other
+"Inter. Falls, MN",Inter. Falls,Other
+"Port Huron, MI",Port Huron,Other
+"Chicago, IL",Chicago,Other
+"Peoria, IL",Peoria,Other
+"Toledo-Sandusky, OH",Toledo-Sandusky,Other
+"St Louis, MO",St Louis,Other
+"Houston, TX",Houston,Other
+"Freeport, TX",Freeport,Other
+"Tulsa, OK",Tulsa,Other
+CHS MCPHERSON REFINERY INC / MCPHERSON / KS,CHS McPherson,Refinery
+CHS INC / LAUREL / MT,CHS Laurel,Refinery
+CHEVRON USA / SALT LAKE CITY / UT,Chevron Salt Lake City,Refinery
+EXXONMOBIL REFINING & SUPPLY / BATON ROUGE REFINERY / LA,Exxon Baton Rouge,Refinery
+PAR MONTANA LLC / BILLINGS REFINERY / MT,Par Billings,Refinery
+EXXONMOBIL REFINING & SPLY CO / BAYTOWN / TX,Exxon Baytown,Refinery
+CVR REFINING CVL LLC / COFFEYVILLE / KS,CVR Coffeyville,Refinery
+CALUMET MONTANA REFINING LLC / GREAT FALLS / MT,Calumet Great Falls,Refinery
+HUNT REFINING CO / TUSCALOOSA / AL,Hunt Tuscaloosa,Refinery
+FLINT HILLS RESOURCES LP / PINE BEND REFINERY / MN,Flint Hills Pine Bend,Refinery
+PAULSBORO REFINING CO LLC / PAULSBORO / NJ,PBF Paulsboro,Refinery
+EXXONMOBIL REFINING & SPLY CO / BEAUMONT / TX,Exxon Beaumont,Refinery
+EXXONMOBIL REFINING & SPLY CO / JOLIET / IL,Exxon Joliet,Refinery
+UNKNOWN PROCESSOR-IL / UNKNOWN PROCESSOR-IL / IL,Unknown - Illinois,Unknown Processor
+SUPERIOR REFINING CO LLC / SUPERIOR / WI,Husky Superior,Refinery
+UNKNOWN PROCESSOR-ND / UNKNOWN PROCESSOR-ND / ND,Unknown - North Dakota,Unknown Processor
+UNKNOWN PROCESSOR-OK / UNKNOWN PROCESSOR-OK / OK,Unknown - Oklahoma,Unknown Processor
+UNKNOWN PROCESSOR-TX / UNKNOWN PROCESSOR-TX / TX,Unknown - Texas,Unknown Processor
+UNKNOWN PROCESSOR-CO / UNKNOWN PROCESSOR-CO / CO,Unknown - Colorado,Unknown Processor
+UNKNOWN PROCESSOR-MT / UNKNOWN PROCESSOR-MT / MT,Unknown - Montana,Unknown Processor
+UNKNOWN PROCESSOR-WY / UNKNOWN PROCESSOR-WY / WY,Unknown - Wyoming,Unknown Processor
+UNKNOWN PROCESSOR-AK / UNKNOWN PROCESSOR-AK / AK,Unknown - Alaska,Unknown Processor
+UNKNOWN PROCESSOR-WA / UNKNOWN PROCESSOR-WA / WA,Unknown - Washington,Unknown Processor
+PHILLIPS 66 / SWEENY / TX,Phillips 66 Sweeny,Refinery
+TESORO REFINING & MARKETING / ANACORTES / WA,Marathon Anacortes,Refinery
+LIMA REFINING CO / LIMA / OH,Husky Lima,Refinery
+BP PRODUCTS NORTH AMERICA / WHITING REFINERY / IN,BP Whiting,Refinery
+TOLEDO REFINING CO LLC / TOLEDO / OH,PBF Toledo,Refinery
+HOLLYFRONTIER TULSA REFINERY LLC TWP / TULSA WEST PLANT / OK,HollyFrontier Tulsa West,Refinery
+HF SINCLAIR EL DORADO REFG LLC / EL DORADO / KS,HollyFrontier El Dorado,Refinery
+HOLLYFRONTIER PUGET SOUND REFNG LLC / PUGET SOUND / WA,HollyFrontier Puget Sound,Refinery
+US OIL & REFINING CO / TACOMA / WA,US Oil Tacoma,Refinery
+PHILLIPS 66 CO / FERNDALE / WA,Phillips 66 Ferndale,Refinery
+VALERO REFINING CO TEXAS LP / CORPUS CHRISTI / TX,Valero Corpus Christi,Refinery
+AMERICAN REFINING GROUP INC / BRADFORD / PA,American Refining Bradford,Refinery
+PHILLIPS 66 / BILLINGS REFINERY / MT,Phillips 66 Billings,Refinery
+PHILLIPS 66 / PONCA CITY / OK,Phillips 66 Ponca City,Refinery
+PREMCOR REFINING GROUP INC / PORT ARTHUR / TX,Valero Port Arthur,Refinery
+SHELL OIL PRODUCTS US / LOCKPORT / IL,Shell Lockport,Other
+UNITED REFINING CO / WARREN / PA,United Refining Warren,Refinery
+PDV MIDWEST REFINING LLC / CITGO LEMONT / IL,Citgo Lemont,Refinery
+MARATHON PETROLEUM CO LP / DETROIT / MI,Marathon Detroit,Refinery
+MARATHON PETROLEUM CO LP / ROBINSON / IL,Marathon Robinson,Refinery
+HUNT SOUTHLAND REFINING CO LLC / ROGERSLACY / MS,Hunt Rogerslacy,Refinery
+MARATHON PETROLEUM CO LP / CATLETTSBURG / KY,Marathon Catlettsburg,Refinery
+ST PAUL PARK REFINING CO LLC / ST PAUL PARK REFINING CO LLC / MN,Marathon St. Paul Park,Refinery
+Indiana,Indiana,Other
+Kansas,Kansas,Other
+Kentucky,Kentucky,Other
+Utah,Utah,Other
+Wisconsin,Wisconsin,Other
+"Corpus Chris, TX",Corpus Christi,Other
+DEER PARK REFINING LP / DEER PARK / TX,Shell Deer Park,Refinery
+MONT BELVIEU CAVERNS LLC / MONT BELVIEU CAVERNS LLC / TX,Mont Belvieu Calverns,Other
+CITGO REFINING & CHEMICAL INC / CORPUS CHRISTI / TX,Citgo Corpus Christi,Refinery
+DELAWARE CITY REFINING CO LLC / DELAWARE CITY / DE,PBF Delaware City,Refinery
+TORRANCE REFINING CO LLC / TORRANCE REFINERY / CA,PBF Torrance,Refinery
+"Texas City, TX",Texas City,Other
+VALERO REFINING CO TEXAS LP / TEXAS CITY / TX,Valero Texas City,Refinery
+"Morgan City, LA",St. James,Other
+"Gramercy, LA",St. James,Other
+MARATHON PETROLEUM CO LP / GALVESTON BAY / TX,Marathon Galveston Bay,Refinery
+MARATHON PETROLEUM CO LP / GARYVILLE / LA,Marathon Garyville,Refinery
+"Chester, PA",Chester,Other
+UNKNOWN PROCESSOR-DE / UNKNOWN PROCESSOR-DE / DE,Unknown - Delaware,Unknown Processor
+MONROE ENERGY LLC / TRAINER / PA,Delta Trainer,Refinery
+"New Orleans, LA",New Orleans,Other
+CHALMETTE REFINING LLC / CHALMETTE / LA,PBF Chalmette,Refinery
+CITGO PETROLEUM CORP / LAKE CHARLES REFINERY / LA,Citgo Lake Charles,Refinery
+VALERO REFG NEW ORLEANS LLC / SAINT CHARLES / LA,Valero Norco,Refinery
+ERGON REFINING INC / VICKSBURG / MS,Ergon Vicksburg,Refinery
+"Beaumont, TX",Beaumont,Other
+SUN TERMINAL / SUN / TX,Sunoco Nederland,Other
+UNKNOWN PROCESSOR-LA / UNKNOWN PROCESSOR-LA / LA,Unknown - Louisiana,Unknown Processor
+MOTIVA ENTERPRISES LLC / PORT ARTHUR / TX,Motiva Port Arthur,Refinery
+"Orange, TX",Orange,Other
+Hawaii,Hawaii,Other
+"Honolu/Pearl, HI",Honolu/Pearl,Other
+UNKNOWN PROCESSOR-HI / UNKNOWN PROCESSOR-HI / HI,Unknown - Hawaii,Unknown Processor
+"Marcus Hook, PA",Marcus Hook,Other
+"Harrisburg, PA",Harrisburg,Other
+PAR HAWAII REFINING LLC / KAPOLEI / HI,Par Kapolei,Refinery
+TOTAL PETROCHEMICALS USA INC / PORT ARTHUR / TX,Total Port Arthur,Refinery
+SHELL OIL PRODUCTS US / NORCO / LA,Motiva Norco,Refinery
+MARATHON PETROLEUM CO LLC / GARYVILLE - ASPHALT / LA,Marathon Garyville,Refinery
+UNKNOWN PROCESSOR-PA E / UNKNOWN PROCESSOR-PA / PA,Unknown - Pennsylvannia,Unknown Processor
+"Carquinez St, CA",Carquinez St,Other
+VALERO REFINING CO CALIFORNIA / BENICIA / CA,Valero Benicia,Refinery
+UNKNOWN PROCESSOR-CA / UNKNOWN PROCESSOR-CA / CA,Unknown - California,Unknown Processor
+"Fortuna, ND",Fortuna,Other
+WRB REFINING LLC / WOOD RIVER / IL,Phillips 66 Wood River,Refinery
+OIL TANKING PL INC / HOUSTON (GULF) / TX,PADD 3 - Other,Other
+EXXON MOBIL REFG & SPLY COMP / BEAUMONT / TX,Exxon Beaumont,Refinery
+WRB REFINING LP / BORGER / TX,Phillips 66 Borger,Refinery
+PHILLIPS 66 / PHILLIPS 66 - GCLP / LA,PADD 3 - Other,Other
+LOOP LLC / METAIRIE / LA,LOOP,Other
+EXCEL PARALUBES / WESTLAKE / LA,PADD 3 - Other,Other
+PHILLIPS 66 / LOS ANGELES / CA,Phillips 66 Los Angeles,Refinery
+"Portal, ND",Portal,Other
+"Paulsboro, NJ",Paulsboro,Other
+"Perth Amboy, NJ",Perth Amboy,Other
+PHILLIPS 66 / FREEPORT / TX,Phillips 66 Freeport,Other
+KINDER MORGAN LIQ TERMLS LLC / PASADENA / TX,Kinder Morgan Pasadena,Other
+EQUILON ENTERPRISES LLC / ST JAMES/SUGARLAND / LA,Motiva Sugarland,Other
+PHILLIPS 66 GULF COAST PROPERTIES LL / BEAUMONT TERMINAL / TX,Phillips 66 Beaumont Terminal,Other
+CPI OPERATIONS LLC / PAULSBORO / NJ,CPI Paulsboro,Other
+"Honolulu Int Ap, HI",Honolulu Int Airport,Other
+BP PLC / CUSHING / OK,BP Cushing,Other
+ENT BEAUMONT MARINE WEST LP / BEAUMONT RP WEST TERMINAL / TX,Enterprise Beaumont,Other
+SINCLAIR WYOMING REFINING CO / RAWLINS / WY,Sinclair Wyoming,Refinery
+VALERO REFINING - MERAUX LLC / MERAUX REFINERY / LA,Valero Meraux,Refinery
+CHEVRON USA INC / BELLE CHASSE / LA,PADD 3 - Other,Other
+EXXON CHEMICAL TRADING INC / HOUSTON / TX,Exxon Chemical Houston,Other
+HF SINCLAIR WOODS CROSS REFINING LLC / WOODS CROSS / UT,HollyFrontier WoodsCross,Other
+HOUSTON REFINING LP / HOUSTON / TX,Lyondell Houston,Refinery
+ENTRPRS REFINED PRODTS CO LLC / BEAUMONT MARINE RP EAST TERML / TX,Enterprise Beaumont,Other
+"Ventura, CA",Ventura,Other
+"Port Hueneme, CA",Port Hueneme,Other
+UNKNOWN PROCESSOR-MO / UNKNOWN PROCESSOR-MO / MO,Unknown - Missouri,Unknown Processor
+VALERO REFINING CO TEXAS LP / HOUSTON REFINERY / TX,Valero Houston,Refinery
+ENERGY TRANSFER GC NGLS LLS / MONT BELVIEU / TX,Energy Transfer NGLs Mont Beliveu,Other
+ENTERPRISE GC LLC / HO NGL-ALMEDA TERMINAL 1 / TX,PADD 3 - Other,Other
+"Seattle, WA",Seattle,Other
+TESORO ALASKA LLC / KENAI REFINERY / AK,Marathon Kenai,Refinery
+HOLLY ENERGY PARTNERS / CASPER / WY,HollyFrontier Casper,Refinery
+SUNOCO PARTNERS NGL FACILITIES LLC / NEDERLAND NGLS / TX,Sunoco Nederland,Other
+UNKNOWN PROCESSOR-KS / UNKNOWN PROCESSOR-KS / KS,Unknown - Kansas,Unknown Processor
+SUNOCO LOGISTICS / NEDERLAND TERMINAL / TX,Sunoco Nederland,Other
+TIDAL ENERGY MARKETING INC / CUSHING / OK,Tidal Cushing,Other
+MAGELLAN PIPELINE CO LP / EAST HOUSTON / TX,Magellan East Houston,Other
+"New York, NY",New York,Other
+UNKNOWN PROCESSOR-MN / UNKNOWN PROCESSOR-MN / MN,Unknown - Minnesota,Unknown Processor
+PLAINS LPG SERVICES / TULSA TERMINAL / OK,Plains LPG Tulsa,Other
+SINCLAIR CASPER REFINING CO / CASPER / WY,Sinclair Casper,Refinery
+MERCURIA ENERGY TRADING / GREEN PORT / TX,PADD 3 - Other,Other
+"Sabine, TX",Sabine,Other
+SHELL OIL PRODUCTS US / CONVENT / LA,Motiva Convent,Refinery
+ENTRPRS REFINED PRODTS CO LLC / NORTH HOUSTON RP TRUCK TERML / TX,Enterprise Houston,Other
+VALERO TERMINALING & DSTR CO / CORPUS CHRISTI TX ASPHALT / TX,Valero Corpus Christi,Refinery
+CHEVRON USA INC RICHMOND / RICHMOND CA TERMINAL / CA,Chevron Richmond,Refinery
+PAR HAWAII INC / KAMUELA / HI,Par Kamuela,Refinery
+"Blaine, WA",Blaine,Other
+CHEVRON USA INC PASCAGOULA / PASCAGOULA MS / MS,Chevron Pasagoula,Refinery
+CHEVRON USA INC EL SEGUNDO / EL SEGUNDO CA / CA,Chevron El Segundo,Refinery
+"Oakland, CA",Oakland,Other
+PHILLIPS 66 CO / SAN FRANCISCO / CA,Phillips 66 Rodeo,Refinery
+UNKNOWN PROCESSOR-MI / UNKNOWN PROCESSOR-MI / MI,Unknown - Michigan,Unknown Processor
+OHIO REFINING CO LLC / TOLEDO / OH,BP-Husky Toledo,Refinery
+PAR MONTANA LLC / BILLINGS / MT,Par Billings,Refinery
+UNKNOWN PROCESSOR-OH / UNKNOWN PROCESSOR-OH / OH,Unknown - Ohio,Unknown Processor
+UNKNOWN PROCESSOR-WI / UNKNOWN PROCESSOR-WI / WI,Unknown - Wisconsin,Unknown Processor
+SUNCOR ENERGY USA INC / COMMERCE CITY REFY - WEST PLNT / CO,Suncor Denver,Refinery
+HOLLY REFG & MKTG CO - TULSA LLC / TULSA / OK,HollyFrontier - Tulsa,Refinery
+FLINT HILLS RESOURCES LP / UMORE / MN,Flint Hills Umore,Other
+CITGO PETROLEUM CORP / OAK PARK AVE TRUCK RACK / TX,PADD 3 - Other,Other
+UNKNOWN PROCESSOR-AL / UNKNOWN PROCESSOR-AL / AL,Unknown - Alabama,Unknown Processor
+SUNCOR ENERGY USA INC / COMMERCE CITY EAST / CO,Suncor Denver,Other
+CPI OPERATIONS LLC / CPI OPERATIONS LLC / NJ,CPI Paulsboro,Other
+UNKNOWN PROCESSOR-NE / UNKNOWN PROCESSOR-NE / NE,Unknown - Nebraska,Unknown Processor
+EXXONMOBIL CORP / NORTH HOUSTON / TX,PADD 3 - Other,Other
+SUNOCO LOGISTICS / MARCUS HOOK / PA,Sunoco Marcus Hook,Other
+Nebraska,Nebraska,Other
+BUCKEYE TERMINALS LLC / PORT WILMINGTON / DE,Buckeye Wilmington,Other
+"Galveston, TX",Galveston,Other
+PAR HAWAII REFINING LLC / SAND ISLAND / HI,Par Sand Island,Other
+"Neche, ND",Neche,Other
+SUNCOR ENERGY INC / GUERNSEY / WY,Suncor Guernsey,Other
+"Porthill, ID",Porthill,Other
+PADD6 (Territories),PADD 6,Other
+Virgin Islands,Virgin Islands,Other
+"Christianstd, VI",Christianstd,Other
+OCEAN POINT TERMINAL / KINGSHILL / VI,Ocean Point Kingshill,Other
+"Trout River, NY",Trout River,Other
+"Noyes, MN",Noyes,Other
+MARATHON PETROLEUM CO LLC / DETROIT - ASPHALT / MI,Marathon Detroit,Refinery
+FLINT HILL RESOURCES LP / ST PAUL / MN,Flint Hills Pine Bend,Refinery
+INTERCONTINENTAL TERMINALS CO / DEER PARK / TX,Intercontinental Terminals Houston,Other
+FLINT HILLS RESOURCES LP / WEST / TX,Flint Hills Corpus Christi,Refinery
+EXXONMOBIL PIPELINE CO / SORRENTO DOME / LA,PADD 3 - Other,Other
+SINCLAIR OIL CORP / SINCLAIR / WY,Sinclair Sinclair,Refinery
+"Juneau, AK",Juneau,Other
+"Milwaukee, WI",Milwaukee,Other
+MAGELLAN PIPELINE CO LP / DONIPHAN / NE,Magellan Pipeline,Other
+Massachusetts,Massachusetts,Other
+"Boston, MA",Boston,Other
+TORRANCE LOGISTICS CO LLC / VERNON / CA,PBF Torrance,Refinery
+"Omaha, NE",Omaha,Other
+Iowa,Iowa,Other
+"Des Moines, IA",Des Moines,Other
+"Oklahoma Cty, OK",Oklahoma Cty,Other
+BUCKEYE TERMINALS LLC / LOUISVILLE / KY,Buckeye Louisville,Other
+CROSS OIL REFINING & MKTG INC / CROSS OIL REFINING & MKTG INC / AR,Cross Oil Arkansas,Refinery
+Arkansas,Arkansas,Other
+ANDEAVOR LOGISTICS LP / CARSON / CA,Marathon Carson,Refinery
+GENESIS ENERGY LP / NATCHEZ / MS,Genesis Natchez,Other
+ANDEAVOR LOGISTICS LP / WILMINGTON / CA,Marathon Wilmington,Refinery
+NUSTAR ENERGY LP / ST JAMES / LA,NuStar St. James,Other
+PAR HAWAII REFINING LLC / MAUI / HI,Par Maui,Other
+UNKNOWN PROCESSOR-IN / UNKNOWN PROCESSOR-IN / IN,Unknown - Indiana,Unknown Processor
+UNKNOWN PROCESSOR-NJ / UNKNOWN PROCESSOR-NJ / NJ,Unknown - New Jersey,Unknown Processor
+"Amarillo, TX",Amarillo,Other
+EQUILON ENTERPRISES LLC / DES PLAINES TERMINAL / IL,Shell Des Plaines Terminal,Other
+PLAINS LPG SERVICES LP / RANCHO SAN PEDRO TERMINAL / CA,PADD 5 - Other,Other
+"Austin, TX",Austin,Other
+PHILLIPS 66 / ALLIANCE / LA,Phillips 66 Alliance,Refinery
+UNKNOWN PROCESSOR-MA / UNKNOWN PROCESSOR-MA / MA,Unknown - Massachussetts,Unknown Processor
+LIMETREE BAY REFINING LLC / LIMETREE BAY / VI,Limetree Bay Refining,Refinery
+"Aberdn-Hoqua, WA",Aberdn-Hoqua,Other
+VALERO MARKETING & SUPPLY CO / HOUSTON / TX,Valero Houston,Other
+KINDER MORGAN CRUDE & CONDENSATE / GALENA PARK / TX,Kinder Morgan Galena Park,Other
+ENTRPRS REFINED PRODTS CO LLC / PORT ARTHUR RP STORAGE TERML / TX,Enterprise Beaumont,Other
+DIAMOND SHAMROCK REFG CO LP / MCKEE REFINERY / TX,Valero McKee,Refinery
+"Duluth, MN",Duluth,Other
